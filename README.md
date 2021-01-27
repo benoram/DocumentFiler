@@ -1,5 +1,5 @@
 # DocumentFiler
-A simple Mac app that takes files from dropbox and prompts me on how to file them. I use this to process scans from ScanSnap Cloud
+A simple Mac app that takes files from Dropbox and prompts me on how to file them. I use this to process scans from ScanSnap Cloud
 
 This was my first Mac app, built with Xamarin using Visual Studio.app. This is written just for me to fill a very specific need of processing scans. Ultimately my preference is to keep ScanSnap and Dropbox software off of my local machine. And I only scan important mail, so only a couple dozen docs p/month go through this process.
 
